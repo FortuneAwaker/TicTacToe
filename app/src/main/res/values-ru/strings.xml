@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Крестики-нолики</string>
+    <string name="grid_description">Start</string>
+    <!-- Statuses of the game -->
+    <string name="status">Нажмите на поле, чтобы начать игру.</string>
+    <string name="x_turn">Ход крестиков!</string>
+    <string name="o_turn">Ход ноликов!</string>
+    <string name="draw">Ничья!</string>
+    <string name="x_won">Победа крестиков!</string>
+    <string name="o_won">Победа ноликов!</string>
+
+    <!-- Descriptions for fields -->
+    <string name="description_of_field_number_1">Field, coordinates 1:1</string>
+    <string name="description_of_field_number_2">Field, coordinates 1:2</string>
+    <string name="description_of_field_number_3">Field, coordinates 1:3</string>
+    <string name="description_of_field_number_4">Field, coordinates 2:1</string>
+    <string name="description_of_field_number_5">Field, coordinates 2:2</string>
+    <string name="description_of_field_number_6">Field, coordinates 2:3</string>
+    <string name="description_of_field_number_7">Field, coordinates 3:1</string>
+    <string name="description_of_field_number_8">Field, coordinates 3:2</string>
+    <string name="description_of_field_number_9">Field, coordinates 3:3</string>
+    <!-- Buttons -->
+    <string name="locale">EN</string>
+</resources>
